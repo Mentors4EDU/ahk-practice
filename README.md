@@ -1,6 +1,5 @@
 # autohotkey
 
-Auto Hot Key scripts and testing
-
+Practicing the AutoHotKey Programming Language
 
 ## Under construction
