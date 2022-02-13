@@ -1,0 +1,3 @@
+#c::
+Run Skype
+return
