@@ -1,2 +1,2 @@
 # AutoHotKey
-Practicing the AutoHotKey Programming Language
+Practicing the [AutoHotKey](https://www.autohotkey.com/) Programming Language
