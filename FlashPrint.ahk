@@ -1,0 +1,3 @@
+#f::
+Run FlashPrint
+return
